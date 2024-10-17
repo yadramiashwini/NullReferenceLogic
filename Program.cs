@@ -6,7 +6,7 @@
         {
              try
                 {
-                Console.WriteLine("enter string val");
+         
                 string val = null;  
                 Console.WriteLine(val.Length);
                 
